@@ -1,0 +1,7 @@
+*
+!.gitignore
+!.gitmodules
+!.gitconfig
+!cuda-memes/
+!gateau/
+!.podman-play
