@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo 'hihi!!!!!'
+touch /tmp/test1
+
+
