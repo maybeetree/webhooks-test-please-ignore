@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo 'hihi!!!!!'
+echo 'hihi from diffrnt branch!!!!!'
 touch /tmp/test1
 
 
