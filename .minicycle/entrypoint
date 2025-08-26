@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo $PWD
+pwd
 echo 'hihi!!!!!'
 touch /tmp/test1
 
