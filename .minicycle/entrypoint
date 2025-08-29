@@ -1,7 +1,9 @@
 #!/bin/sh
 
 echo ayy
+echo ayy > $MINICYCLE_ARTIFACTS/foo.txt
 sleep 2
 echo bar
+echo bar > $MINICYCLE_ARTIFACTS/bar.txt
 
 
