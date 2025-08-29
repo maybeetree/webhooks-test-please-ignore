@@ -1,8 +1,7 @@
 #!/bin/sh
 
-echo $PWD
-pwd
-echo 'hihi!!!!!'
-touch /tmp/test1
+echo ayy
+sleep 2
+echo bar
 
 
