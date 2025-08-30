@@ -2,6 +2,8 @@
 
 echo "STDOUT!!" > /dev/stdout
 echo "STDERR!!" > /dev/stderr
+echo "STDOUT2!!"
+echo "STDERR2!!" 2>&1
 echo ayy
 echo ayy > $MINICYCLE_ARTIFACTS/foo.txt
 sleep 2
