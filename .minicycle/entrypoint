@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo "STDOUT!!" > /dev/stdout
+echo "STDERR!!" > /dev/stderr
 echo ayy
 echo ayy > $MINICYCLE_ARTIFACTS/foo.txt
 sleep 2
